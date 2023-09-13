@@ -2,8 +2,8 @@
 
 **Primeiro desafio do Fronter Mentor**
 
-- Utilizando noções básicas do HTML e CSS
-- & repodução do projeto no Figma
+- Utilizando noções básicas do HTML e CSS + estrutura de pastas
+- & repodução do projeto no Figma, em breve deixarei o link disponível.
 
 **Segue link abaixo do projeto original**
 
