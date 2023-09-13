@@ -1,11 +1,11 @@
-# pagerqrcode
+# pager QR CODE
 
 **Primeiro desafio do Fronter Mentor**
 
 - Utilizando noções básicas do HTML e CSS
 - & repodução do projeto no Figma
 
-**Segue link do Figma**
+**Segue link abaixo do projeto original**
 
-
-  - https://www.figma.com/file/yVff7WBlrpeCSm0MKe2dsX/Challenges?type=design&node-id=2%3A21&mode=design&t=4cT3wX4cpKcYzMbB-1
+Fronter Mentor
+  - https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
