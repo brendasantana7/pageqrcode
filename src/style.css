@@ -35,7 +35,7 @@ body {
   color: #70737C;
 }
 
-footer{
+.footer{
   font-size: 14px;
   color:#fff;
   background-color: #2B7DFA;
@@ -45,12 +45,12 @@ footer{
   padding: 8px;
   text-align: center;
 }
-footer a {
+.footer a {
   text-decoration: none;
   color: #fff;
   cursor: pointer;
   font-weight: bold;
 }
-footer a:hover {
+.footer a:hover {
   color: #1F3553;
 }
